@@ -8,9 +8,10 @@
 
 ## My Experience
 
-I have 6 months experience in iOS App Development, and more than 1 year experience in React Native App Development.
+I have 6 months experience as an iOS Developer, and more than 1 year experience in React Native App Development.
 
-I also know to work with the following technologies
+I also have a good experience of the following technologies:
+
 1. SwiftUI
 2. Apple's CoreML
 3. Apple's ARKit
@@ -21,15 +22,16 @@ I also know to work with the following technologies
 8. React Native
 9. MongoDB
 10. MySQL and SQLite
-11. Realm
+11. Realm Database
 12. CoreData
-13. 
+13. Firebase
+
 
 I am a keen learner and learn things very fast. I am loyal to my work, ready to work with teams and always ready for my nect project.
 
-🧠 I'm currently learning Swift, SwiftUI, CoreML, and many more
+ I'm currently learning Swift, SwiftUI, CoreML, and many more
 
-### 📫 Email: mahmadali3180@gmail.com
+ ### Email: mahmadali3180@gmail.com
 
 ## 🔗 Links
 
