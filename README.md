@@ -18,13 +18,13 @@ I also have a good experience of the following technologies:
 4. NodeJS
 5. ExpressJS
 6. NextJS
-7. React
-8. React Native
-9. MongoDB
-10. MySQL and SQLite
-11. Realm Database
-12. CoreData
-13. Firebase
+7. ReactJS
+9. React Native
+10. MongoDB
+11. MySQL and SQLite
+12. Realm Database
+13. CoreData
+14. Firebase
 
 
 I am a keen learner and learn things very fast. I am loyal to my work, ready to work with teams and always ready for my nect project.
