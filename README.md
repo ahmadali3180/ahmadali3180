@@ -2,44 +2,44 @@
 ## 🚀 About Me
 
 
-# Hi👋🏻, My name is Muhammd Ahmad Ali
+# Hi👋🏻, My name is Muhammad Ahmad Ali
 
-## I am a Native iOS and React Native App Developer from Pakistan.
+## I am a Native iOS and React/React Native App Developer from Pakistan.
 
 ## My Experience
 
-I have 6 months experience as an iOS Developer, and more than 1 year experience in React Native App Development.
+I have more than 6 months of experience as an iOS Developer and almost 2 years of experience in React Native App Development and React Web Development.
 
-I also have a good experience of the following technologies:
+I also have a good experience in the following technologies:
 
-1. SwiftUI
-2. Apple's CoreML
-3. Apple's ARKit
+1. React/React Native
+2. NextJS
+3. ExpressJS
 4. NodeJS
-5. ExpressJS
-6. NextJS
-7. ReactJS
-9. React Native
-10. MongoDB
-11. MySQL and SQLite
-12. Realm Database
-13. CoreData
-14. Firebase
+5. MongoDB
+6. Redux | Redux-Toolkit
+7. MySQL and SQLite
+8. Swift | StoryBoards and SwiftUI
+9. Apple's ARKit
+10. Apple's CoreML
+11. Realm Database
+12. CoreData
+13. Firebase
 
 
-I am a keen learner and learn things very fast. I am loyal to my work, ready to work with teams and always ready for my nect project.
+I am a keen learner and learn things very fast. I am loyal to my work, ready to work with teams and always ready for my next project.
 
  I'm currently learning Swift, SwiftUI, CoreML, and many more
 
- ### Email: mahmadali3180@gmail.com
+ ### Email: mahmadaliwork3180@gmail.com
 
 ## 🔗 Links
 
 
 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mahmadali3180@gmail.com)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mahmadaliwork3180@gmail.com)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahmad-ali-a66731248)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmadaliwork3180)
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/twt_ahmadali?t=PreHWvPhtxnlfum5uKmesg&s=09)
 
