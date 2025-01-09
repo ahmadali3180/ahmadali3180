@@ -4,11 +4,11 @@
 
 # Hi👋🏻, My name is Muhammad Ahmad Ali
 
-## I am a Native iOS and React/React Native App Developer from Pakistan.
+## I am a  React Web Developer from Pakistan.
 
 ## My Experience
 
-I have more than 6 months of experience as an iOS Developer and almost 2 years of experience in React Native App Development and React Web Development.
+I have more than 6 months of experience as an iOS Developer, over 1 year of experience as a React Native developer, and almost 3 years of experience in React Web Development 
 
 I also have a good experience in the following technologies:
 
